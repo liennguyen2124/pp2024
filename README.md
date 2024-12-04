@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Nguyen Thi Lien 
+* Student Name: Nguyen Thi Lien
 * Student ID: 22BA13188
 
